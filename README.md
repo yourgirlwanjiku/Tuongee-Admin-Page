@@ -1,2 +1,2 @@
 # Tuongee Admin Page
-Tuongee online counseling app is a web app that bridges the gap between therapists and patients. It is coded using php HTML, CSS, JS and mysql
+The admin is granted permission to add therapists and view payments made by patients using mpesa and paypal
